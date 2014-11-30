@@ -9,10 +9,6 @@ define('STATUS_NOT_ACTIVATED', '0');
  * Authentication library for Code Igniter.
  *
  * @package		Tank_auth
- * @author		Ilya Konyukhov (http://konyukhov.com/soft/)
- * @version		1.0.9
- * @based on	DX Auth by Dexcell (http://dexcell.shinsengumiteam.com/dx_auth)
- * @license		MIT License Copyright (c) 2008 Erick Hartanto
  */
 class Tank_auth
 {
